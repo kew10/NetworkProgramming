@@ -1,0 +1,4 @@
+C:\Dev\Project1\Debug\Project1.exe
+C:\Dev\Project1\Debug\Project1.pdb
+C:\Dev\tcpServer\Debug\Project1.exe
+C:\Dev\tcpServer\Debug\Project1.pdb

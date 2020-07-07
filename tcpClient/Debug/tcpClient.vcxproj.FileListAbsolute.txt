@@ -1,0 +1,2 @@
+C:\Dev\tcpClient\Debug\tcpClient.exe
+C:\Dev\tcpClient\Debug\tcpClient.pdb
