@@ -1,0 +1,14 @@
+debug/caitlyn.o
+debug/champion.o
+debug/darius.o
+debug/draven.o
+debug/irelia.o
+debug/jhin.o
+debug/leblanc.o
+debug/main.o
+debug/mordekaiser.o
+debug/yasou.o
+debug/zed.o
+debug/role.o
+debug/name.o
+debug/stats.o

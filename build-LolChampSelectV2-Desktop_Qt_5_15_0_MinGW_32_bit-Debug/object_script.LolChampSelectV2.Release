@@ -1,0 +1,14 @@
+release/caitlyn.o
+release/champion.o
+release/darius.o
+release/draven.o
+release/irelia.o
+release/jhin.o
+release/leblanc.o
+release/main.o
+release/mordekaiser.o
+release/yasou.o
+release/zed.o
+release/role.o
+release/name.o
+release/stats.o
